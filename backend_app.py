@@ -19,3 +19,10 @@ avto1 = avto_info("GM","Cobolt",rangi = "Oq", yili = '2023')
 avto2 = avto_info("Hyundai","Seltos",rangi ='mokriy', narxi=35000)
 print(avto1)
 print(avto2)
+
+lst = ["Abror","Abbos","Bobur"]
+if lst(type) == str:
+    print("True")
+
+
+
